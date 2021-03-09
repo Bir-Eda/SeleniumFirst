@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="extent demo">
+    <test name="some test1" >
+        <parameter name="linknm" value="Events"></parameter>
+        <classes>
+            <class name="testingclasses.TNG_Extent"></class>
+        </classes>
+    </test>
+    <test name="some test2">
+        <parameter name="linknm" value="Plugins"></parameter>
+        <classes>
+            <class name="testingclasses.TNG_Extent"></class>
+        </classes>
+    </test>
+</suite>

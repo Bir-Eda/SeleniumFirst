@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="client-combined-3.141.59-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Selenium Dependencies/Libraries/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/Jar/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/Jar/junit-platform-commons-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/Jar/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/Jar/junit-jupiter-api-5.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guice-4.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/snakeyaml-1.21.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jcommander-1.72.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LocatorsFinding/sqlite-jdbc-3.31.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LocatorsFinding/jsoup-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LocatorsFinding/freemarker-2.3.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LocatorsFinding/extentreports-2.41.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/Selenium Dependencies/Libraries/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <test name="app testing test1 regression firefox">
+        <classes>
+            <class name="testingclasses.TNG_Class_Method"/>
+            <class name="testingclasses.TNG_Class_Method2"/>
+        </classes>
+    </test>
+</suite>
+
+//suite, test and class are   tag names
+// name is a value
+// calsses part is executer
